@@ -1,6 +1,6 @@
 # react-native-course
 
-examples from the udemy course 'react native, the practical guide' using typescript <br />
+examples from the udemy course  **react native, the practical guide** using typescript <br />
 
 navigate to the folder, `yarn` then `yarn start`
 
